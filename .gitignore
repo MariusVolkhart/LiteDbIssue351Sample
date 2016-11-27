@@ -1,0 +1,33 @@
+.idea/
+*.iml
+packages/
+
+# OSX
+.DS_Store
+
+# AppCode
+*/.idea
+
+# Object code
+*.obj
+
+# Visual Studio files
+.vs/
+*.aps
+*.ipch
+*.opensdf
+*.sdf
+*.suo
+*.tlog
+*.user
+*.VC.db
+
+# Output directories
+AnyCPU/
+Debug/
+Release/
+Win32/
+x64/
+
+# NUnit console files
+TestResult.xml
